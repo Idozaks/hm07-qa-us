@@ -15,10 +15,11 @@ const requestBody =
 		]
 	}
 
-let actualStatus;
 
 test('expected status 200', async () => {
-    try {
+    let actualStatus;
+
+	try {
 		const response = await fetch(`${config.API_URL}/api/v1/kits/${id}/products`, {
 			method: 'POST',
 			headers: {
@@ -32,7 +33,6 @@ test('expected status 200', async () => {
 		console.error(error);
 	}
 	expect(actualStatus).toBe(200)
-	
 });
 test("Response body matches expected body", async() => {
 	let responseBody;
