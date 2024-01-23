@@ -38,7 +38,7 @@ test('Response body matches', async () => {
 	catch {
 		console.error(error);
 	}
-	console.log('Actual data:\n');
-	console.log(actualData);
+	// console.log('Actual data:\n');
+	// console.log(actualData);
 	expect(actualData).toEqual(validBody);
 })
