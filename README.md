@@ -5,6 +5,8 @@ The project is mirrored as a github repository (this repo).
 ## Description
 This project is designed to manage and test the functionality of a warehouse management system. It includes a series of automated tests to ensure that the API endpoints for managing warehouses, kits, and products are functioning as expected. These tests verify successful operations (status code 200) and validate the response bodies against expected results.
 
+- The API doc used for the project is at the endpoint {server-url}/docs/
+
 ## Technologies and Techniques Used
 - **JavaScript**: The primary programming language used for writing tests.
 - **Jest**: A delightful JavaScript Testing Framework with a focus on simplicity, used for writing all of our test cases.
