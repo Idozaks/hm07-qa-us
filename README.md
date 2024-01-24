@@ -1,35 +1,3 @@
-Skip to content
-Idozaks
-/
-hm07-qa-us
-
-Type / to search
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Settings
-Comparing changes
-Choose two branches to see what’s changed or to start a new pull request. If you need to, you can also  or learn more about diff comparisons.
- 
-...
- 
- 1 commit
- 1 file changed
- 1 contributor
-Commits on Jan 24, 2024
-Update README.md
-
-@Idozaks
-Idozaks committed 6 minutes ago
-Showing  with 51 additions and 1 deletion.
- 52 changes: 51 additions & 1 deletion52  
-README.md
-@@ -1 +1,51 @@
 # Sprint 7 project
 # Sprint 7 project - Using Visual Studio to run NPM Jest tests on the Urban Grocers API
 In this project, we will be using Visual Studio with a NPM Jest environment set up to run tests on 4 endpoint from the Urban Grocers API.
@@ -82,15 +50,3 @@ The project test files are named and structured as follows:
 {project-root}/tests/putHandlers.test.js
 {project-root}/tests/deleteHandlers.test.js
 ```
-Footer
-© 2024 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
-Manage cookies
-Do not share my personal information
-Comparing de1cd5b545be2dffab4e69841a8b37fb52b22d23...f9ae03db15b8fab635d2f3397d480e0a589d35b7 · Idozaks/hm07-qa-us
